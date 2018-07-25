@@ -1,0 +1,508 @@
+commit 7122b171e58afdcca0e691dbda7035d3fa45e5e9
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Jan 3 14:20:06 2018 +0200
+
+    edge problems
+
+commit 766cba83d2c672554cf45bd25aee88202664b02d
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Jan 3 00:16:44 2018 +0200
+
+    notes
+
+commit 12a1a0984d79c288c7e4cd1940d4525fff24541b
+Author: danielG <greenspan1993@gmail.com>
+Date:   Tue Jan 2 21:54:38 2018 +0200
+
+    fix listcommand
+
+commit c0c3ed25fc9fb25d8e28b976a4a5f880cb285be2
+Author: danielG <greenspan1993@gmail.com>
+Date:   Tue Jan 2 21:20:16 2018 +0200
+
+    fix bugs with server
+
+commit afb76282e50e8bd927d19c88ecbe86134cbcad4f
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Jan 2 18:40:14 2018 +0200
+
+    changes
+
+commit aedeb745d640d96763c4483ee00a016174464ec1
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Jan 2 15:56:28 2018 +0200
+
+    added destructor to singelton
+
+commit 8897dea3816ae2094109ff2eee960059d20f6abc
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Jan 2 15:44:24 2018 +0200
+
+    server works
+
+commit 3599dc602ad56d57d5369df89ecb6ededcaa6d3e
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Jan 2 14:43:36 2018 +0200
+
+    handled const char warning
+
+commit 6dee7abec499d62e30dfc34a1ae75528bd3f8dcf
+Author: danielG <greenspan1993@gmail.com>
+Date:   Mon Jan 1 21:17:38 2018 +0200
+
+    server runs
+
+commit 8ce4f86bd8df68943c1a9b87bba4a752a523a472
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Jan 1 17:54:20 2018 +0200
+
+    changes
+
+commit 7d253a4396139f08518b36aa35426a36458cd6ec
+Author: eilon47 <eilon47@gmail.com>
+Date:   Sat Dec 30 18:02:00 2017 +0200
+
+    changed things for game streaming
+
+commit 1d0342aaab599ea79f0978ba6ea215dd410858f3
+Author: danielG <greenspan1993@gmail.com>
+Date:   Fri Dec 29 16:04:56 2017 +0200
+
+    change
+
+commit d17af84d6dcf184bfd5b02afca01748221607c82
+Author: eilon47 <eilon47@gmail.com>
+Date:   Thu Dec 28 16:16:17 2017 +0200
+
+    added *
+
+commit 76515b4025d9326e32ec099bf07283de73da57f1
+Author: eilon47 <eilon47@gmail.com>
+Date:   Thu Dec 28 10:59:14 2017 +0200
+
+    changed server
+
+commit 9dd04a6522a1897aff704092a8685a9c61b8e972
+Author: eilon47 <eilon47@gmail.com>
+Date:   Thu Dec 28 09:08:40 2017 +0200
+
+    changes
+
+commit c5679565f69037764b0afaa6a613d4b8c8de6d36
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Dec 27 22:49:17 2017 +0200
+
+    fix
+
+commit 164498736b86db34e654c2e1f0d56f26e9496702
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Dec 27 22:41:17 2017 +0200
+
+    changed so client can send commands
+
+commit e62f4f19ee16a322e5ff63159e5b5706773c875d
+Author: eilon47 <eilon47@gmail.com>
+Date:   Wed Dec 27 21:03:46 2017 +0200
+
+    updated server and commands
+
+commit e1995e442bcbfdd71994d83b2dc648776957b4ad
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Dec 27 17:33:45 2017 +0200
+
+    changed gamesList
+
+commit 4acd1c17183b405797663d941875332483d6beef
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Dec 27 01:08:31 2017 +0200
+
+    changed commands
+
+commit 41e74aceb542a2cd380796da21e9f66ac7633ad7
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Dec 26 19:12:43 2017 +0200
+
+    changed commands
+
+commit 8acf193dd8d82ee97cab27df498449845f209648
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Dec 26 16:53:21 2017 +0200
+
+    changed commands
+
+commit 098ecbebcc48558d44932510505e07855a56f6ff
+Author: danielG <greenspan1993@gmail.com>
+Date:   Tue Dec 26 15:25:02 2017 +0200
+
+    clientManager
+
+commit 3eaca4b612407ebba1f6c789e9fab438b9178a95
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 25 17:15:31 2017 +0200
+
+    added command files  to server
+
+commit 23bf288c2345e7093b8a81e82c58a51c4e7740c9
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 25 12:50:49 2017 +0200
+
+    server stops after end game
+
+commit 64d9ce6d67bf47fbae8beb4b7d6a523d1b039105
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 18 15:27:26 2017 +0200
+
+    Added display to client and made every print with display
+
+commit 6e433e6fe9a0f2b1b2c557206e52046ca90ac0b0
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 11 20:08:30 2017 +0200
+
+    made netrun and localrun
+
+commit 763625f03bc07d36bb60e534fcbea2d5051b36ed
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 11 17:56:32 2017 +0200
+
+    Server and Client
+
+commit 5fc533f1a45f828585e77ecfe80c1dcfc16f00a7
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 11 16:08:56 2017 +0200
+
+     -
+
+commit 544cac4c42514f87a696f1ebc8c5d2244c48a1d5
+Author: danielG <greenspan1993@gmail.com>
+Date:   Mon Dec 11 13:43:17 2017 +0200
+
+    comments
+
+commit 1df8e9f6de1619ac7b8ad8b6101ce7418df3059a
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 11 12:01:43 2017 +0200
+
+    added while loops
+
+commit 8d86246992a942dcb99d1c57a58f4b9ca8083865
+Author: eilon47 <eilon47@gmail.com>
+Date:   Sun Dec 10 12:25:08 2017 +0200
+
+    added the option to check if someone disconnected
+
+commit d383bb61b2b77c469a484fc741b69dc86a040563
+Author: eilon47 <eilon47@gmail.com>
+Date:   Sat Dec 9 20:55:07 2017 +0200
+
+    changed few things.
+
+commit 9c0763d8774c7da249430ca93fee58c3c22b2f0c
+Author: eilon47 <eilon47@gmail.com>
+Date:   Sat Dec 9 20:31:47 2017 +0200
+
+    merged netRun into run
+
+commit b2adc4a4eb8064a38f6fd6a6b938374b8e13946e
+Author: danielG <greenspan1993@gmail.com>
+Date:   Sat Dec 9 19:24:55 2017 +0200
+
+    reading text
+
+commit 6470d2d0a20ae55a2a03e99446aea37c085210fd
+Author: eilon47 <eilon47@gmail.com>
+Date:   Sat Dec 9 18:49:52 2017 +0200
+
+    added the option to server to check if it was bad move, changed a little game logic
+
+commit 6cdc88b4474c61db757c0e661d91770fac705abd
+Author: danielG <greenspan1993@gmail.com>
+Date:   Sat Dec 9 17:52:50 2017 +0200
+
+    reading server info from file
+
+commit a65118ab92b1f2590a117fed31f4408affb802b6
+Author: eilon47 <eilon47@gmail.com>
+Date:   Fri Dec 8 12:26:21 2017 +0200
+
+    server and clinent
+
+commit 2b22c7069f1845fd7f119b0f47975057d09eac1d
+Author: danielG <greenspan1993@gmail.com>
+Date:   Thu Dec 7 16:44:45 2017 +0200
+
+    more
+
+commit a4d4535634312225dbb84c951b820902c69c08f2
+Author: danielG <greenspan1993@gmail.com>
+Date:   Thu Dec 7 16:06:58 2017 +0200
+
+    sending stuff
+
+commit b41eecde5effedb3e1a8d72718139f71318aa5ef
+Author: danielG <greenspan1993@gmail.com>
+Date:   Thu Dec 7 14:03:37 2017 +0200
+
+    sending mesages now
+
+commit 36c73f10f75b66bc633aa98e63d9aad4216dadf5
+Author: eilon47 <eilon47@gmail.com>
+Date:   Thu Dec 7 12:11:20 2017 +0200
+
+    added
+
+commit 764f0f7f232db7c4442952ae737c5d602362a704
+Author: eilon47 <eilon47@gmail.com>
+Date:   Wed Dec 6 21:05:24 2017 +0200
+
+    server
+
+commit ebabee9e48824ef0c68ac21c002685fca701cae6
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Dec 6 20:19:14 2017 +0200
+
+    client
+
+commit c5b7ac61e42a6d5521f75bbb1982b8363d6aaa23
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Wed Dec 6 13:04:44 2017 +0200
+
+    Add files via upload
+    
+    added server
+
+commit 84997fc8abceece2c622dd8647c028d39574699d
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Dec 6 12:31:20 2017 +0200
+
+    start of client class
+
+commit bad3412787206372d4b0a20e074015b542c606d0
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 4 19:36:42 2017 +0200
+
+    added directories for client and server
+
+commit 7bea64b763054730dfd92818c9d8748e362ed932
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 4 17:40:09 2017 +0200
+
+    Creted folders
+
+commit 8bc836bd1cae3d1b5b416facfab46e1d56444c04
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Dec 4 17:28:46 2017 +0200
+
+    Added Display and ConsoleDisplay
+
+commit 8342c34299537548d2e490dd984b13875a5d9c36
+Author: eilon47 <eilon47@gmail.com>
+Date:   Thu Nov 30 21:00:41 2017 +0200
+
+    After submission
+
+commit 628ef4cbeb787e84604bbad2f37922a591fca2d3
+Author: eilon47 <eilon47@gmail.com>
+Date:   Thu Nov 30 14:53:53 2017 +0200
+
+    After submission
+
+commit 454ac498bbffebd45405276bc3b37ad6ab597304
+Author: eilon47 <eilon47@gmail.com>
+Date:   Wed Nov 29 20:28:31 2017 +0200
+
+    Deleted names from top of each file
+
+commit 906ec96d697cb6e5b3bc6a84c2940bb0990e86c9
+Author: eilon47 <eilon47@gmail.com>
+Date:   Wed Nov 29 20:20:40 2017 +0200
+
+    Deleted names from top of each file
+
+commit 785cd1710a87644e4518f67dcb6c044c14a6f0c8
+Author: eilon47 <eilon47@gmail.com>
+Date:   Wed Nov 29 20:06:15 2017 +0200
+
+    Changed menu
+
+commit 90fdd09f96da03647795a95d82613a4af88c33be
+Author: eilon47 <eilon47@gmail.com>
+Date:   Wed Nov 29 14:09:01 2017 +0200
+
+    Added remarks to all classes.
+
+commit 290254a32b4833154dedb67accf14cf982578845
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Nov 29 13:05:43 2017 +0200
+
+    makefile ready to use
+
+commit 64f35ca557e321d9f2b885f3b8757f0a4ff33426
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Nov 29 12:46:10 2017 +0200
+
+    makefile ready to use
+
+commit 60d81aacf53f0207bcf3d15975fdb22ac7acee15
+Author: danielG <greenspan1993@gmail.com>
+Date:   Wed Nov 29 10:03:50 2017 +0200
+
+    tests fix
+
+commit 4f2e242f8e4af5bad440718fccc04965680fe257
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Nov 28 22:42:25 2017 +0200
+
+    AItest
+
+commit 82668cb4e52fe8a8fe0adabe353e79432584f819
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Nov 28 20:54:29 2017 +0200
+
+    added the sign class.
+
+commit 15076af453ee8836e512f847b04e0928aed4572a
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Nov 28 20:24:50 2017 +0200
+
+    partition to directories.
+
+commit 0441196a5c1400468fd83d72c92334f6c183e3a8
+Author: danielG <greenspan1993@gmail.com>
+Date:   Tue Nov 28 17:15:23 2017 +0200
+
+    RulesTest added
+
+commit b335d3eccf6a9b6baf5ba38f4cfd539df3db88b1
+Author: danielG <greenspan1993@gmail.com>
+Date:   Tue Nov 28 16:45:27 2017 +0200
+
+    added GameTest
+
+commit ccb60b6aba04981cd79a7787249a440bc41befc9
+Author: danielG <greenspan1993@gmail.com>
+Date:   Tue Nov 28 14:59:08 2017 +0200
+
+    BoardTestClass
+
+commit c0e7d8ab31da67eaeb2253f532cc61f01308ad17
+Author: danielG <greenspan1993@gmail.com>
+Date:   Mon Nov 27 21:05:20 2017 +0200
+
+    aitest
+
+commit 418dcfa911ff6cb5de072fa586cb28ab6aca62ec
+Author: danielG <greenspan1993@gmail.com>
+Date:   Mon Nov 27 20:55:56 2017 +0200
+
+    tests file
+
+commit 84163ce4692c29c90a360d423d8f59a8b891ede5
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Nov 27 20:06:17 2017 +0200
+
+    changed the cmake and added one test
+
+commit beefbae4cf28cb2278f9a58026b7c1e2ecb99907
+Author: eilon47 <eilon47@gmail.com>
+Date:   Sun Nov 26 19:26:08 2017 +0200
+
+    Updated the name of Play class to Game. changed the PointFromPlayer to returns Point. Added menu to the game. Add = operator to game and point
+
+commit b94925834dbc4dd8495cb7598df27b73577a503e
+Author: danielG <greenspan1993@gmail.com>
+Date:   Fri Nov 24 16:55:02 2017 +0200
+
+    fixed the AI player to be able to play agains another AI player
+
+commit b07097b711f78074fb97a73b68ea9a05ce8def4d
+Author: danielG <greenspan1993@gmail.com>
+Date:   Thu Nov 23 17:39:32 2017 +0200
+
+    fixed the AIPlayer class
+
+commit 14f0e3f3af944b30521c71ee1d5898310493ac98
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Nov 21 17:06:54 2017 +0200
+
+    Changed Ai and main
+
+commit 8dd53930a802ba60b5281a12927a58ba4bec8dd5
+Merge: 5676b6b 8416993
+Author: Dandan <youremail@domain.com>
+Date:   Tue Nov 21 16:31:23 2017 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	.idea/workspace.xml
+    #	CMakeLists.txt
+    #	cmake-build-debug/CMakeCache.txt
+    #	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake
+    #	cmake-build-debug/CMakeFiles/CMakeOutput.log
+    #	cmake-build-debug/CMakeFiles/Makefile.cmake
+    #	cmake-build-debug/CMakeFiles/Makefile2
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/Board.cpp.o
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/CXX.includecache
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/ConsolePlayer.cpp.o
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/DependInfo.cmake
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/Play.cpp.o
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/Player.cpp.o
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/Point.cpp.o
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/build.make
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/cmake_clean.cmake
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/depend.internal
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/depend.make
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/link.txt
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/main.cpp.o
+    #	cmake-build-debug/CMakeFiles/ReversiGame.dir/progress.make
+    #	cmake-build-debug/CMakeFiles/TargetDirectories.txt
+    #	cmake-build-debug/CMakeFiles/clion-environment.txt
+    #	cmake-build-debug/CMakeFiles/clion-log.txt
+    #	cmake-build-debug/CMakeFiles/progress.marks
+    #	cmake-build-debug/Makefile
+    #	cmake-build-debug/ReversiGame
+    #	cmake-build-debug/ReversiGame.cbp
+    #	cmake-build-debug/cmake_install.cmake
+    #	main.cpp
+
+commit 5676b6bb43ce0f9d0b9d63b0ef9a671e1fb02b63
+Author: Dandan <youremail@domain.com>
+Date:   Tue Nov 21 16:16:54 2017 +0200
+
+    created AIPlayer
+
+commit 8416993a2406f38ce06f5fd6a0daa892026c6dc6
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Nov 21 16:01:45 2017 +0200
+
+    changed play and created rules.
+
+commit 8deecae24199b2f54e4a51c7270a708f085904f7
+Author: eilon47 <eilon47@gmail.com>
+Date:   Tue Nov 21 15:50:32 2017 +0200
+
+    Added Rules and Changed Play
+
+commit 50c89de924279bdac952806e97493f69297c818d
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Mon Nov 20 17:41:29 2017 +0200
+
+    Add files via upload
+
+commit 57cdec5d6c6d074164ca91b2eb7c519166d54611
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Mon Nov 20 17:40:42 2017 +0200
+
+    Delete txt.txt
+
+commit a111a5344e3e60222f826f69b0378e75036f796a
+Author: eilon47 <eilon47@gmail.com>
+Date:   Mon Nov 20 17:38:55 2017 +0200
+
+    Added txt
+
+commit 5f4fccb5e1b0bb32333d5421fcdcc1d8242a8a9e
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Mon Nov 20 17:34:31 2017 +0200
+
+    Create README.md

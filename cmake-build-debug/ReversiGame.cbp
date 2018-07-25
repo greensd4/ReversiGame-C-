@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ReversiGame"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/elon/Desktop/Git/ReversiGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/elon/Desktop/Git/ReversiGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/elon/Desktop/Git/ReversiGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReversiGame">
+				<Option output="/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/ReversiGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elon/Desktop/Git/ReversiGame/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReversiGame"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReversiGame/fast">
+				<Option output="/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/ReversiGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elon/Desktop/Git/ReversiGame/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReversiGame/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/elon/Desktop/Git/ReversiGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/CMakeLists.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/CMakeCache.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/Makefile">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/ReversiGame">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/ReversiGame.cbp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/ReversiTest">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/cmake_install.cmake">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/gmock.pc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/gmock_main.pc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/gtest.pc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/cmake-build-debug/gtest_main.pc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/BUILD.bazel">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/CMakeLists.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/README.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/WORKSPACE">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/appveyor.yml">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/CHANGES">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/CMakeLists.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/CONTRIBUTORS">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/LICENSE">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/Makefile.am">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/README.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/cmake/gmock.pc.in">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/cmake/gmock_main.pc.in">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/configure.ac">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/CheatSheet.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/CookBook.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/DesignDoc.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/DevGuide.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/Documentation.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/ForDummies.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/FrequentlyAskedQuestions.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/docs/KnownIssues.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-actions.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-cardinalities.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-actions.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-actions.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-function-mockers.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-function-mockers.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-matchers.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-matchers.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-nice-strict.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-generated-nice-strict.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-matchers.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-more-actions.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-more-matchers.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock-spec-builders.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/gmock.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/custom/gmock-generated-actions.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/custom/gmock-generated-actions.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/custom/gmock-matchers.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/custom/gmock-port.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/gmock-generated-internal-utils.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/gmock-generated-internal-utils.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/gmock-internal-utils.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/include/gmock/internal/gmock-port.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/make/Makefile">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2005/gmock.sln">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2005/gmock.vcproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2005/gmock_config.vsprops">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2005/gmock_main.vcproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2005/gmock_test.vcproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2010/gmock.sln">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2010/gmock.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2010/gmock_config.props">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2010/gmock_main.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2010/gmock_test.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2015/gmock.sln">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2015/gmock.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2015/gmock_config.props">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2015/gmock_main.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/msvc/2015/gmock_test.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/fuse_gmock_files.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/LICENSE">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/README">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/README.cppclean">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/cpp/__init__.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/cpp/ast.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/cpp/gmock_class.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/cpp/gmock_class_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/cpp/keywords.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/cpp/tokenize.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/cpp/utils.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/generator/gmock_gen.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/gmock-config.in">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/gmock_doctor.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/upload.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/scripts/upload_gmock.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/src/gmock-all.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/src/gmock-cardinalities.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/src/gmock-internal-utils.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/src/gmock-matchers.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/src/gmock-spec-builders.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/src/gmock.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/src/gmock_main.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/BUILD.bazel">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-actions_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-cardinalities_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-generated-actions_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-generated-function-mockers_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-generated-internal-utils_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-generated-matchers_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-internal-utils_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-matchers_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-more-actions_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-nice-strict_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-port_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock-spec-builders_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_all_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_ex_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_leak_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_leak_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_link2_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_link_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_link_test.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_output_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_output_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_output_test_golden.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_stress_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googlemock/test/gmock_test_utils.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/CHANGES">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/CMakeLists.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/CONTRIBUTORS">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/LICENSE">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/Makefile.am">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/README.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/cmake/gtest.pc.in">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/cmake/gtest_main.pc.in">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/cmake/internal_utils.cmake">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/codegear/gtest.cbproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/codegear/gtest.groupproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/codegear/gtest_all.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/codegear/gtest_link.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/codegear/gtest_main.cbproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/codegear/gtest_unittest.cbproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/configure.ac">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/AdvancedGuide.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/DevGuide.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/Documentation.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/FAQ.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/Pkgconfig.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/Primer.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/PumpManual.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/Samples.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/docs/XcodeGuide.md">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-death-test.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-message.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-param-test.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-param-test.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-printers.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-spi.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-test-part.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest-typed-test.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest_pred_impl.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/gtest_prod.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/custom/gtest-port.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/custom/gtest-printers.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/custom/gtest.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-death-test-internal.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-filepath.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-internal.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-linked_ptr.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-param-util-generated.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-param-util-generated.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-param-util.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-port-arch.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-port.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-string.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h.pump">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/m4/acx_pthread.m4">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/m4/gtest.m4">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/make/Makefile">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest-md.sln">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest-md.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest-md.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest.sln">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_main-md.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_main-md.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_main.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_main.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_prod_test-md.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_prod_test-md.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_prod_test.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_prod_test.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_unittest-md.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_unittest-md.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_unittest.vcxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/msvc/2010/gtest_unittest.vcxproj.filters">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/prime_tables.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample1.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample1.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample10_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample1_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample2.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample2.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample2_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample3-inl.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample3_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample4.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample4.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample4_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample5_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample6_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample7_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample8_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/samples/sample9_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/common.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/fuse_gtest_files.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/gen_gtest_pred_impl.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/gtest-config.in">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/pump.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/release_docs.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/test/Makefile">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/upload.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/scripts/upload_gtest.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-all.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-death-test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-filepath.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-internal-inl.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-port.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-printers.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-test-part.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest-typed-test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/src/gtest_main.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/BUILD.bazel">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-death-test_ex_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-death-test_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-filepath_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-linked_ptr_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-listener_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-message_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-options_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-param-test2_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-param-test_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-param-test_test.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-port_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-printers_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-test-part_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-tuple_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-typed-test2_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-typed-test_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-typed-test_test.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest-unittest-api_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_all_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_break_on_failure_unittest.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_break_on_failure_unittest_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_catch_exceptions_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_catch_exceptions_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_color_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_color_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_env_var_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_env_var_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_environment_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_filter_unittest.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_filter_unittest_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_help_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_help_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_list_tests_unittest.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_list_tests_unittest_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_main_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_no_test_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_output_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_output_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_output_test_golden_lin.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_pred_impl_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_premature_exit_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_prod_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_repeat_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_shuffle_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_shuffle_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_sole_header_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_stress_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_test_utils.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_throw_on_failure_ex_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_throw_on_failure_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_throw_on_failure_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_uninitialized_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_uninitialized_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_unittest.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_xml_outfile1_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_xml_outfile2_test_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_xml_outfiles_test.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_xml_output_unittest.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_xml_output_unittest_.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/gtest_xml_test_utils.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/production.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/test/production.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Config/DebugProject.xcconfig">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Config/FrameworkTarget.xcconfig">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Config/General.xcconfig">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Config/ReleaseProject.xcconfig">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Config/StaticLibraryTarget.xcconfig">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Config/TestTarget.xcconfig">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Resources/Info.plist">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Samples/FrameworkSample/Info.plist">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Samples/FrameworkSample/WidgetFramework.xcodeproj/project.pbxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Samples/FrameworkSample/runtests.sh">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Samples/FrameworkSample/widget.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Samples/FrameworkSample/widget.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Samples/FrameworkSample/widget_test.cc">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Scripts/runtests.sh">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/Scripts/versiongenerate.py">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/googletest/xcode/gtest.xcodeproj/project.pbxproj">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/lib/googletest-master/travis.sh">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/main.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/makefile">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/AIPlayer.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/AIPlayer.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Board.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Board.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/ConsoleDisplay.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/ConsoleDisplay.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Display.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Game.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Game.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/GameMenu.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/GameMenu.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/HumanPlayer.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/HumanPlayer.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Player.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Player.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Point.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Point.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/RegularRules.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/RegularRules.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Rules.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Rules.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Sign.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/src/Sign.h">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/tests/AITest.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/tests/BoardTest.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/tests/GameTest.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/tests/RulesTest.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/client/tests/main_test.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/server/CMakeLists.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/server/cmake-build-debug/CMakeCache.txt">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/server/cmake-build-debug/Makefile">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/server/cmake-build-debug/cmake_install.cmake">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/server/cmake-build-debug/server.cbp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/src/server/main.cpp">
+			<Option target="ReversiGame"/>
+		</Unit>
+		<Unit filename="/home/elon/Desktop/Git/ReversiGame/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
